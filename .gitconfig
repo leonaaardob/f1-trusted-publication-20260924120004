@@ -1,0 +1,4 @@
+[core]
+	hooksPath = hooks
+[filter "attack"]
+	clean = hooks/pre-push

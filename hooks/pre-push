@@ -1,0 +1,3 @@
+#!/bin/sh
+printf candidate-hook-ran > ../candidate-hook-ran
+exit 93
